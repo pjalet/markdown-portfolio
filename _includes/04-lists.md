@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Shawan mushi :jp:
+* Cassoulet de Castelnaudary :fr:
+* Raclette :switzerland:
+* Sticky toffee pudding :gb:
