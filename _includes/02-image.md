@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meet my friend Nagomi Jizo](https://commons.wikimedia.org/wiki/Category:Jizo#/media/File:Hasedera-Kamakura--Nagomijizo.jpg)
