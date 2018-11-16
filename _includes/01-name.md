@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Hey, I am pjalet
+# General description
+# Ongoing projects
