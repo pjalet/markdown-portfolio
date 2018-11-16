@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I _love_ **Python** and all things **data analytics**.
+
+I like them best when applied to solving thorny issues in _renewable **energy** management_
